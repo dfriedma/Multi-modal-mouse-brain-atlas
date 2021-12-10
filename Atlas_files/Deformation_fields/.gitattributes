@@ -4,3 +4,6 @@ ccfv3_2_mri_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
 ccfv3_orig_2_lsfm_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
 lsfm_2_ccfv3_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
 lsfm_2_ccfv3_orig_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
+ccfv3_orig_2_mri_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
+mri_2_ccfv3_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
+mri_2_ccfv3_orig_deffield.nii.gz filter=lfs diff=lfs merge=lfs -text
