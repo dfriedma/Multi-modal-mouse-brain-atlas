@@ -1,0 +1,53 @@
+[33mcommit c1ef5ae08949b147080a02574b4d38236af5d40d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Johanna <johanna.perens@gmail.com>
+Date:   Fri Dec 10 14:51:11 2021 +0100
+
+    Add deformation fields
+
+[33mcommit 871e7fcb31a926c2b5cbcde9d1285472a9088275[m
+Author: Johanna <johanna.perens@gmail.com>
+Date:   Fri Dec 10 14:05:01 2021 +0100
+
+    Add deformation fields
+
+[33mcommit a243269450437f078c83855c81917df74b3d0269[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Johanna <johanna.perens@gmail.com>
+Date:   Fri Dec 10 14:01:11 2021 +0100
+
+    Add atlases in other spaces
+
+[33mcommit 3f51a575eb810a4f3bd40816a2266b09cdbd5896[m
+Author: Johanna <johanna.perens@gmail.com>
+Date:   Fri Dec 10 13:53:36 2021 +0100
+
+    Add CCFv3 original atlas
+
+[33mcommit 48eabdac05787c31cb9ba534489b002a02a5ef9f[m
+Author: Gubra-ApS <61732801+Gubra-ApS@users.noreply.github.com>
+Date:   Fri Dec 10 13:50:59 2021 +0100
+
+    Create test
+
+[33mcommit f84e3a1b98fd4120042190c418cfb60814f470b2[m
+Author: Gubra-ApS <61732801+Gubra-ApS@users.noreply.github.com>
+Date:   Fri Dec 10 13:45:04 2021 +0100
+
+    Create test
+
+[33mcommit 6a83378ff750ffc92a1a6ce811c7a69b29500a73[m
+Author: Gubra-ApS <61732801+Gubra-ApS@users.noreply.github.com>
+Date:   Fri Dec 10 13:44:28 2021 +0100
+
+    Delete Atlas_files/AIBS_CCFv3_space_oriented directory
+
+[33mcommit b3c163bb2418441c02850615d1903147b24cb475[m
+Author: Johanna <johanna.perens@gmail.com>
+Date:   Fri Dec 10 12:30:37 2021 +0100
+
+    Add oriented AIBS atlas
+
+[33mcommit 804aeaabac525463935d07e078a037d6afee1cf5[m
+Author: Gubra-ApS <61732801+Gubra-ApS@users.noreply.github.com>
+Date:   Sun Dec 5 23:20:46 2021 +0100
+
+    Create README.md
